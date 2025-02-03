@@ -2,6 +2,6 @@
 
 ---
 
-What are differences between function, modules and packages ?
-How to import a package ?
-What are Python workspaces ?
+1. What are differences between function, modules and packages ?
+2. How to import a package ?
+3. What are Python workspaces ?
